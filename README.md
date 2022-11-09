@@ -37,9 +37,9 @@ Hi, I'm Mahmoud Abbas , a Full Stack web Developer 🚀 from Iraq, currently, I'
 ---
 
 <div>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My DailyCard</summary>
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M98abas&show_icons=true&theme=gotham" alt="MahmoudAbbas" />
+<a href="https://app.daily.dev/mahmoud_Dev"><img src="https://api.daily.dev/devcards/8dcca374ea4a42168445f933a596f802.png?r=mrl" width="400" alt="Mahmoud Abbas's Dev Card"/></a>
 </div>
 
 ---
